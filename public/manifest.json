@@ -1,17 +1,15 @@
 {
+  "author": "Nicola Fiori",
+  "name": "Mail",
+  "description": "Synchronize your emails with IMAP",
+  "enableOnMobile": false,
+  "id": "mails2rem",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {
